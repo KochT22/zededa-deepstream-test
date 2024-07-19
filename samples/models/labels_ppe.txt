@@ -1,0 +1,8 @@
+helmet
+no_helmet
+safety_shoes
+no_safety_shoes
+security_vest
+no_security_vest
+security_goggles
+no_security_goggles
